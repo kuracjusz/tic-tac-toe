@@ -1,0 +1,114 @@
+#wstep
+{
+	height: 312px;
+	width: 512px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	
+}
+#wybor
+{
+	margin-top: 50px;
+	text-align: center;
+	font-family: 'Indie Flower', cursive, bold;
+	font-size: 40px;
+	
+}
+
+#container
+{
+	height: 312px;
+	width: 512px;
+	background-color: lightgray;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10px;
+	padding: 10px;
+	-webkit-box-shadow: 3px 3px 40px 5px rgba(110,110,110,0.75);
+	-moz-box-shadow: 3px 3px 40px 5px rgba(110,110,110,0.75);
+	box-shadow: 3px 3px 40px 5px rgba(110,110,110,0.75);
+}
+
+#gra
+{
+	float: left;
+	width: 312px;
+	height: 312px;
+	margin-right: 10px;
+}
+
+#menu
+{
+	float: left;
+	background-color: #dBdBdB;
+	width: 190px;
+	height: 312px;
+}
+
+#tura
+{
+	font-family: 'Indie Flower';
+	width: 170px;
+	text-align: center;
+	margin-top: 50px;
+	font-size: 25px;
+	margin-left: 10px;
+}
+
+#licznik
+{
+	font-family: 'Indie Flower';
+	text-align: center;
+	font-size: 20px;
+	margin-top: 135px;
+	width: 190px;
+}
+
+#tytul
+{
+	width: 512px;
+	text-align: center;
+	font-family: 'Indie Flower', cursive, bold;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 40px;
+	font-size: 60px;
+}
+
+.pole
+{
+	height: 100px;
+	width: 100px;
+	float: left;
+	cursor: pointer;
+	background-color: white;
+	border: 2px solid black;
+}
+
+.pole:hover
+{
+	background-color: #eeeeee;
+}
+
+.reset
+{
+	cursor: pointer;
+	font-size: 27px;
+}
+
+.reset:hover
+{
+	color: #FFFF33;
+}
+
+.wybor
+{
+	cursor: pointer;
+}
+
+.wybor:hover
+{
+	color: #ffee22;
+}
+
